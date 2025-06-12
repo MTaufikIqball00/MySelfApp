@@ -1,5 +1,10 @@
 package com.example.myselfapp.ui.customview
-
+/*
+nama : muhammad taufik iqbal
+kelas : P.Andro4
+nim : 10122336
+tanggal pengerjaan terkahir 12-6-2025
+ */
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Color

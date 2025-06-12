@@ -1,5 +1,10 @@
 package com.example.myselfapp.ui.activity
-
+/*
+nama : muhammad taufik iqbal
+kelas : P.Andro4
+nim : 10122336
+tanggal pengerjaan terkahir 12-6-2025
+ */
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity

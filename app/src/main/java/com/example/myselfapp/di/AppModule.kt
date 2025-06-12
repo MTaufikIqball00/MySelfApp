@@ -1,5 +1,10 @@
 package com.example.myselfapp.di
-
+/*
+nama : muhammad taufik iqbal
+kelas : P.Andro4
+nim : 10122336
+tanggal pengerjaan terkahir 12-6-2025
+ */
 import com.example.myselfapp.data.local.dao.DailyActivityDao
 import com.example.myselfapp.data.local.dao.FriendDao
 import com.example.myselfapp.data.local.dao.GalleryDao

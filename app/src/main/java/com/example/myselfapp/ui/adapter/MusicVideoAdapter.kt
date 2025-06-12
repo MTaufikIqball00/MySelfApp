@@ -1,5 +1,10 @@
 package com.example.myselfapp.ui.adapter
-
+/*
+nama : muhammad taufik iqbal
+kelas : P.Andro4
+nim : 10122336
+tanggal pengerjaan terkahir 12-6-2025
+ */
 import android.content.Intent
 import android.net.Uri
 import android.view.LayoutInflater
