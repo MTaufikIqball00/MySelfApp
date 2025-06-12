@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MySelfApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- String baru untuk penanganan kasus data tidak tersedia -->
+    <string name="name_not_available">Nama Tidak Tersedia</string>
+    <string name="description_not_available">Deskripsi Tidak Tersedia</string>
+    <string name="interests_not_available">Minat Tidak Tersedia</string>
+    <string name="hobbies_not_available">Hobi Tidak Tersedia</string>
+    <string name="makes_not_available">Membuat: Tidak Tersedia</string>
+    <string name="dreams_not_available">Cita-cita: Tidak Tersedia</string>
+    <string name="phone_number_not_available">Nomor Telepon Tidak Tersedia</string>
+    <string name="email_not_available">Email Tidak Tersedia</string>
+    <string name="location_name_not_available">Nama Lokasi Tidak Tersedia</string>
+    <string name="app_name_not_available">Nama Aplikasi Tidak Tersedia</string>
+    <string name="app_version_not_available">Versi Aplikasi Tidak Tersedia</string>
+    <string name="developer_name_not_available">Nama Pengembang Tidak Tersedia</string>
+    <string name="about_text_not_available">Teks Tentang Tidak Tersedia</string>
+</resources>

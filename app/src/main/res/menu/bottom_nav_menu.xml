@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/dailyActivityFragment"
+        android:icon="@drawable/ic_daily_activity"
+        android:title="Aktivitas" />
+    <item
+        android:id="@+id/galleryFragment"
+        android:icon="@drawable/ic_gallery"
+        android:title="Galeri" />
+    <item
+        android:id="@+id/musicFavoriteVideoFragment"
+        android:icon="@drawable/ic_music_video"
+        android:title="Musik" /> <!-- Mengubah title jadi lebih singkat -->
+    <item
+        android:id="@+id/profileDetailFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="Profil" />
+</menu>
