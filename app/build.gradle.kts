@@ -49,8 +49,6 @@ dependencies {
 
     implementation(libs.navigation.fragment.ktx)
     implementation(libs.navigation.ui.ktx)
-    implementation(libs.play.services.maps)
-    implementation(libs.play.services.location)
     implementation(libs.androidx.swiperefreshlayout)
 
     // Gson

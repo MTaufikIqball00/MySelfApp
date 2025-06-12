@@ -291,5 +291,23 @@
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_find_me"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="24dp"
+            android:text="Temukan Saya di Peta"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/purple_700"
+            android:iconTint="@color/white"
+            app:cornerRadius="16dp"
+            app:iconGravity="textStart"
+            app:rippleColor="@color/purple_200"
+            app:layout_constraintTop_toBottomOf="@id/card_github"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

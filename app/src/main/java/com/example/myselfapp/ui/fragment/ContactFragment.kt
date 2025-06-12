@@ -9,6 +9,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
+import androidx.navigation.fragment.findNavController
+import com.example.myselfapp.R
 import com.example.myselfapp.databinding.FragmentContactBinding
 import com.example.myselfapp.ui.viewmodel.ContactViewModel
 import dagger.hilt.android.AndroidEntryPoint
@@ -80,9 +82,10 @@ class ContactFragment : Fragment() {
             binding.tvLinkedinUsername.text = "LinkedIn"
             binding.tvGithubUsername.text = "GitHub"
 
-            // Jika Anda ingin menampilkan username spesifik, Anda bisa menambahkan field di ViewModel
-            // dan Entity/Repository, lalu mengambilnya di sini.
-            // Contoh: binding.tvInstagramUsername.text = "Instagram (@your_username)"
+            binding.btnFindMe.setOnClickListener {
+                // Mengarahkan ke FindMeFragment menggunakan Navigation Component
+                findNavController().navigate(R.id.findMeFragment)
+            }
         }
     }
 

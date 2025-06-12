@@ -29,9 +29,6 @@ kotlinxCoroutines = "1.8.0"
 
 gson = "2.10.1"
 
-playServicesMaps = "19.0.0"
-playServicesLocation = "21.2.0"
-
 viewpagerDotsIndicator = "4.1.2"
 
 androidxJunit = "1.1.5"
@@ -106,11 +103,7 @@ lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-view
 # Gson
 gson = { group = "com.google.code.gson", name = "gson", version.ref = "gson" }
 
-# Google Maps
-play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
-play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
 
-# ViewPagerDotsIndicator
 
 
 androidx-viewpager2 = { group = "androidx.viewpager2", name = "viewpager2", version.ref = "androidxViewpager2" }
